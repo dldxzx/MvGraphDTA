@@ -19,7 +19,7 @@ MvGraphDTA: Multi-view-based graph deep model for drug-target affinity predictio
 ## Example usage
 
 ### 1. Use our pre-trained model
-In this section，we provide the core set data of pdbbindv2016 and Li's data(filtered casf2013 and casf2016), you can directly execute the following command to run our pre-trained model and get the results on the core set.
+In this section，we provide the core set data of pdbbindv2016 and Li's data(filtered casf2013 and casf2016) (Dataset download link: https://pan.baidu.com/s/1XR6XERbdsWsRFHS0tul5pw, Extraction code: 9wuy), you can directly execute the following command to run our pre-trained model and get the results on the core set.
 
 ```bash
 # Run the following command.
